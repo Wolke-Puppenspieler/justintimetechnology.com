@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>Images</title>
+   	<link>.</link>
+   	
+        
+        
+        <item>
+            <title>0</title>
+            <link>slides/0.htm</link>
+            <pubDate>Sat, 26 Jul 2008 13:28:43 -0400</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/0.jpg" width="162" height="130"/>
+            <media:content url="slides/0.jpg" width="960" height="768"/>
+            <jalbum:original url="../Images/0.png" width="1280" height="1024" fileSize="564578"/>
+            <guid isPermaLink="false">slides/0.jpg</guid>
+        </item>
+        
+        <item>
+            <title>1</title>
+            <link>slides/1.htm</link>
+            <pubDate>Sat, 26 Jul 2008 13:28:43 -0400</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/1.jpg" width="162" height="130"/>
+            <media:content url="slides/1.jpg" width="960" height="768"/>
+            <jalbum:original url="../Images/1.png" width="1280" height="1024" fileSize="404757"/>
+            <guid isPermaLink="false">slides/1.jpg</guid>
+        </item>
+        
+        <item>
+            <title>2</title>
+            <link>slides/2.htm</link>
+            <pubDate>Sat, 26 Jul 2008 13:28:43 -0400</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/2.jpg" width="162" height="130"/>
+            <media:content url="slides/2.jpg" width="960" height="768"/>
+            <jalbum:original url="../Images/2.png" width="1280" height="1024" fileSize="306189"/>
+            <guid isPermaLink="false">slides/2.jpg</guid>
+        </item>
+        
+        <item>
+            <title>3</title>
+            <link>slides/3.htm</link>
+            <pubDate>Sat, 26 Jul 2008 13:28:43 -0400</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/3.jpg" width="162" height="130"/>
+            <media:content url="slides/3.jpg" width="960" height="768"/>
+            <jalbum:original url="../Images/3.png" width="1280" height="1024" fileSize="488360"/>
+            <guid isPermaLink="false">slides/3.jpg</guid>
+        </item>
+        
+        <item>
+            <title>4</title>
+            <link>slides/4.htm</link>
+            <pubDate>Sat, 26 Jul 2008 13:28:43 -0400</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/4.jpg" width="162" height="130"/>
+            <media:content url="slides/4.jpg" width="960" height="768"/>
+            <jalbum:original url="../Images/4.png" width="1280" height="1024" fileSize="417243"/>
+            <guid isPermaLink="false">slides/4.jpg</guid>
+        </item>
+        
+        <item>
+            <title>5</title>
+            <link>slides/5.htm</link>
+            <pubDate>Sat, 26 Jul 2008 13:28:43 -0400</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/5.jpg" width="162" height="130"/>
+            <media:content url="slides/5.jpg" width="960" height="768"/>
+            <jalbum:original url="../Images/5.png" width="1280" height="1024" fileSize="491009"/>
+            <guid isPermaLink="false">slides/5.jpg</guid>
+        </item>
+        
+        <item>
+            <title>6</title>
+            <link>slides/6.htm</link>
+            <pubDate>Sat, 26 Jul 2008 13:28:43 -0400</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/6.jpg" width="162" height="130"/>
+            <media:content url="slides/6.jpg" width="960" height="768"/>
+            <jalbum:original url="../Images/6.png" width="1280" height="1024" fileSize="924082"/>
+            <guid isPermaLink="false">slides/6.jpg</guid>
+        </item>
+        
+        <item>
+            <title>7</title>
+            <link>slides/7.htm</link>
+            <pubDate>Sat, 26 Jul 2008 13:28:43 -0400</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/7.jpg" width="162" height="130"/>
+            <media:content url="slides/7.jpg" width="960" height="768"/>
+            <jalbum:original url="../Images/7.png" width="1280" height="1024" fileSize="796351"/>
+            <guid isPermaLink="false">slides/7.jpg</guid>
+        </item>
+        
+        <item>
+            <title>8</title>
+            <link>slides/8.htm</link>
+            <pubDate>Sat, 26 Jul 2008 13:28:43 -0400</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/8.jpg" width="162" height="130"/>
+            <media:content url="slides/8.jpg" width="960" height="768"/>
+            <jalbum:original url="../Images/8.png" width="1280" height="1024" fileSize="394059"/>
+            <guid isPermaLink="false">slides/8.jpg</guid>
+        </item>
+        
+        <item>
+            <title>9</title>
+            <link>slides/9.htm</link>
+            <pubDate>Sat, 26 Jul 2008 13:28:43 -0400</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/9.jpg" width="162" height="130"/>
+            <media:content url="slides/9.jpg" width="960" height="768"/>
+            <jalbum:original url="../Images/9.png" width="1280" height="1024" fileSize="492264"/>
+            <guid isPermaLink="false">slides/9.jpg</guid>
+        </item>
+        
+        <item>
+            <title>10</title>
+            <link>slides/10.htm</link>
+            <pubDate>Sat, 26 Jul 2008 13:28:43 -0400</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/10.jpg" width="162" height="130"/>
+            <media:content url="slides/10.jpg" width="960" height="768"/>
+            <jalbum:original url="../Images/10.png" width="1280" height="1024" fileSize="655603"/>
+            <guid isPermaLink="false">slides/10.jpg</guid>
+        </item>
+        
+        <item>
+            <title>11</title>
+            <link>slides/11.htm</link>
+            <pubDate>Sat, 26 Jul 2008 13:28:43 -0400</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/11.jpg" width="162" height="130"/>
+            <media:content url="slides/11.jpg" width="960" height="768"/>
+            <jalbum:original url="../Images/11.png" width="1280" height="1024" fileSize="700970"/>
+            <guid isPermaLink="false">slides/11.jpg</guid>
+        </item>
+        
+        <item>
+            <title>cb</title>
+            <link>slides/cb.htm</link>
+            <pubDate>Sat, 26 Jul 2008 13:28:43 -0400</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/cb.jpg" width="180" height="130"/>
+            <media:content url="slides/cb.jpg" width="402" height="290"/>
+            <jalbum:original url="../Images/cb.jpg" width="402" height="290" fileSize="39279"/>
+            <guid isPermaLink="false">slides/cb.jpg</guid>
+        </item>
+        
+        <item>
+            <title>JTCbanner</title>
+            <link>slides/JTCbanner.htm</link>
+            <pubDate>Sat, 26 Jul 2008 13:28:43 -0400</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/JTCbanner.jpg" width="404" height="75"/>
+            <media:content url="slides/JTCbanner.jpg" width="800" height="150"/>
+            <jalbum:original url="../Images/JTCbanner.png" width="800" height="150" fileSize="8981"/>
+            <guid isPermaLink="false">slides/JTCbanner.jpg</guid>
+        </item>
+        
+    </channel>
+</rss>
