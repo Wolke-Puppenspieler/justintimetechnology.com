@@ -890,7 +890,7 @@ function hesk_convert_to_utf8_and_clean_html_entities($text)
 		'&brvbar;' => '¦',
 		'&sect;' => '§',
 		'&uml;' => '¨',
-		'&copy;' => '&copy;',
+		'&copy;' => '©',
 		'&ordf;' => 'ª',
 		'&laquo;' => '«',
 		'&not;' => '¬',
