@@ -88,8 +88,9 @@ name to create a new button.  Then change the src="" below to the new file name 
         }
         
         unset($builds);
+		echo "\r\n";
 		echo "Software";
-		
+		ecuo "\r\n";
 		echo '<li><a href="images/lscreens/CompUbun.html">Ubuntu Linux Configured With Compiz Fusion Visual Effects</a></li>';
 	  ?>
 
