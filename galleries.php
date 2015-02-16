@@ -7,6 +7,16 @@
 </head>
 
 <body bottommargin="0" leftmargin="0" marginheight="0" marginwidth="0" rightmargin="0" topmargin="0" bgcolor="0000000" text="#EAF5FF">
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
 <table width="100%" height="94" cellpadding="0" cellspacing="0" border="0">
 	<tr valign="top">
 <!-- the LOGO is below, edit blanklogo.jpg / or .psd and save as a different
@@ -66,7 +76,7 @@ name to create a new button.  Then change the src="" below to the new file name 
 <table width="100%" cellpadding="2" cellspacing="2" border="0"><tr valign="top">
 <td width="49%">
 <H3>.: Galleries</h3>
-<p align="justify">Here are some galleries that I have compiled. Content ranges from the process of building a computer to advanced software configurations.</p>
+<p align="justify">Below are a selection of the computers I have built, as well as some other interesting projects.</p>
 </td>
 <td width="1%">&nbsp;</td>
 <td width="50%">
@@ -82,26 +92,35 @@ name to create a new button.  Then change the src="" below to the new file name 
 		"AMD A10-5800 based future-proofed small-business computer" => "images/nancyBuild/index.html",
 		"Older, but still capable Intel Core2Quad Q6600 based gaming rig" => "images/aaronBuild/index.html",
 		"Intel Core i5 based entry-level graphic design system" => "images/rickyBuild/index.html",
-		"My personal Intel Core i7 based gaming/home server machine" => "images/myBuild/index.html");
-        	foreach ($builds as $name => $url) {
+		"My personal Intel Core i7 based gaming/home server rig" => "images/myBuild/index.html");
+        foreach ($builds as $name => $url) {
             echo '<li><a href="'.$url.'">'.$name.'</a></li>';
         }
         
         unset($builds);
 		echo '<BR>';
-		echo 'Software';
+		echo 'Projects';
 		echo '<BR><BR>';
-		echo '<li><a href="images/lscreens/CompUbun.html">Ubuntu Linux Configured With Compiz Fusion Visual Effects</a></li>';
+		$projects=array("Ubuntu Linux Configured With Compiz Fusion Visual Effects" => "images/lscreens/CompUbun.html");
+		foreach ($projects as $name => $url) {
+        	echo '<li><a href="'.$url.'">'.$name.'</a></li>';
+		}
+		unset($projects);
 	  ?>
 
 <BR><BR><BR><BR><BR><BR><BR>
 <BR><BR><BR><BR><BR><BR><BR><BR><BR>
 </p>
-<center>Web site contents &copy; Copyright Justin Newman 2015, All rights reserved.</center>
 <!-------------------------- End of content area ----------------------------------------------------->
 
 
-<center><a href="http://www.steves-templates.com/" title="Steves free website templates" target="_blank">Website templates</a></center>					</td>
+<center>
+	<div class="fb-like" data-href="https://www.facebook.com/JustInTimeTech" data-layout="standard" data-action="like" data-colorscheme="dark" data-show-faces="true" data-share="true"></div>
+    <BR>
+    Web site contents &copy; Copyright Justin Newman 2015, All rights reserved.
+    <BR>
+    <a href="http://www.steves-templates.com/" title="Steves free website templates" target="_blank">Website templates</a></center>
+    					</td>
 				</tr>
 				<tr valign="top">
 				  <td>&nbsp;</td>
