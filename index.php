@@ -98,13 +98,13 @@ name to create a new button.  Then change the src="" below to the new file name 
 <td width="31%">
 
 <H3>.: Networking</h3>
-<p align="justify">I am skilled at the design and implementation of reliable wired and wireless networks, securing existing wireless networks, setup shared printers, network file-sharing, and many other related tasks. </p></td>
+<p align="left">We are skilled at the design and implementation of reliable wired and wireless networks (including 802.11ac WiFi and 1000BASE-T ethernet), securing existing wireless networks, deploying shared printers, network file-sharing, and many other related tasks. </p></td>
 </tr></table>
 
 <H3>.: Affordable Custom Built Computers</h3>
-<p align="justify">I custom build and refurbish computers using only the finest components to ensure you the best quality machine for the money.
+<p align="justify">We build and refurbish computers using only the finest components to ensure you the best quality machine for the money.
 <BR>
-I build for any  price range, from a low cost web surfer to a high end gaming rig. Not to mention that one of my custom-built computers can be half the price of one from a major manufacturer, with the same (or better) performance and reliability.</p>
+We can target your build for any  price range, from a low cost web surfer to a high end gaming rig. Not to mention that one of our custom-built computers can be half the price of one from a major manufacturer, with the same (or better) performance and reliability.</p>
 <BR>
 <!----- <H3>.: Pay Online</h3>
  <p align="justify">You can pay online for all of my services with your credit card of choice via paypal. Its fast, easy, and secure.<BR> ----->

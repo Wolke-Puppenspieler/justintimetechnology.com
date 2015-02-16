@@ -76,7 +76,7 @@ name to create a new button.  Then change the src="" below to the new file name 
 <table width="100%" cellpadding="2" cellspacing="2" border="0"><tr valign="top">
 <td width="49%">
 <H3>.: Galleries</h3>
-<p align="justify">Below are a selection of the computers I have built, as well as some other interesting projects.</p>
+<p align="justify">Below are a selection of the systems we've created for customers, as well as some other interesting projects.</p>
 </td>
 <td width="1%">&nbsp;</td>
 <td width="50%">
